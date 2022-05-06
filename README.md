@@ -1,5 +1,6 @@
 ### I'm Sujit 👋
-https://camo.githubusercontent.com/6000e8ade0eca9384e6b751fede8171a40b3af796bc0dfa84326437676115b62/68747470733a2f2f646174612e77686963646e2e636f6d2f696d616765732f3239333234363239322f6f726967696e616c2e676966
+![image](https://user-images.githubusercontent.com/25746445/167100882-e4749e0e-abf3-420f-afba-b735b6cd114f.png)
+
 <!--
 **seekLey/seekLey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
