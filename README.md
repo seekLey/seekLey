@@ -6,15 +6,17 @@
 #### I'm a Software Engineer in Test at Palo, based in Singapore.
 
 <!--
-🌱 Learning more about and studying: Distributed Systems, Golang, Java, Open Source, CS Algorithms.
-🌍 I support and volunteer with: Women Who Code, Lean In.
-💬 Ping me about: open source, diversity & inclusion 🌈 , mentorship.
-📫 Reach me asap: Twitter or atibhi.a@gmail.com ✉️
-💜 Interests: Books 📚, Art 🎨, Travelling. 🇮🇳 🇯🇵 🇺🇸 🇸🇬 🇹🇭 🇮🇩
-😄 Passionate about building accessible software and helping underrepresented folks get into tech.
-Find me around the web 🌎:
-💼 Connecting and sharing professional updates on LinkedIn
-✍️ Blogging on Medium
-🐦 Tweeting about open source, books and sharing tech tweets on Twitter
-📚 Sharing what I read on Goodreads
+* 🌱 Learning more about and studying: Distributed Systems, Java, Java-Script, Python, Open Source, CS Algorithms.
+* 🌍 I support and volunteer with: Women Who Code, Lean In.
+* 💬 Ping me about: open source, diversity & inclusion 🌈 , mentorship.
+* 📫 Reach me on : XXXX.a@gmail.com
+* 💜 Interests: Books 📚, Piano 🎹, Travelling. 🇮🇳 🇸🇬 🇮🇹 🇮🇩 🇲🇺 🇲🇾 🇳🇱  
+* 😄 Passionate about software quality and building accessible software and helping underrepresented folks get into tech.
+
+#### Find me around the web 🌎:
+* 💼 Connecting and sharing professional updates on LinkedIn
+* ✍️ Blogging on Medium
+* 🐦 Tweeting about open source, books and sharing tech tweets on Twitter
+* 📚 Sharing what I read on Goodreads
+
 --!>
