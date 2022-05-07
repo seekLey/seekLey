@@ -5,18 +5,19 @@
 
 #### I'm a Software Engineer in Test at Palo, based in Singapore.
 
-<!--
+
 * 🌱 Learning more about and studying: Distributed Systems, Java, Java-Script, Python, Open Source, CS Algorithms.
 * 🌍 I support and volunteer with: Women Who Code, Lean In.
-* 💬 Ping me about: open source, diversity & inclusion 🌈 , mentorship.
-* 📫 Reach me on : XXXX.a@gmail.com
+* 💬 Ping me about: open source, mentorship and tech volunteering.
+* 📫 Reach me on : sujit.code90@gmail.com
 * 💜 Interests: Books 📚, Piano 🎹, Travelling. 🇮🇳 🇸🇬 🇮🇹 🇮🇩 🇲🇺 🇲🇾 🇳🇱  
 * 😄 Passionate about software quality and building accessible software and helping underrepresented folks get into tech.
 
 #### Find me around the web 🌎:
-* 💼 Connecting and sharing professional updates on LinkedIn
-* ✍️ Blogging on Medium
-* 🐦 Tweeting about open source, books and sharing tech tweets on Twitter
-* 📚 Sharing what I read on Goodreads
+* 💼 Connecting and sharing professional updates on [LinkedIn](https://www.linkedin.com/in/sujit-ambore/)
+* ✍️ Blogging on [Medium](https://medium.com/@sujit.code90/about)
 
+<!--
+* 🐦 Tweeting about open source, books and sharing tech tweets on [Twitter]()
+* 📚 Sharing what I read on Goodreads
 --!>
