@@ -7,12 +7,12 @@
 
 
 * 🌱 Learning more about and studying: Distributed Systems, Java, Java-Script, Python, Open Source, CS Algorithms.
-* 🌍 I support and volunteer with: Women Who Code, Lean In.
+* 🌍 I support and volunteer with: Women Who Code and Synapse-QA.
 * 💬 Ping me about: open source, mentorship and tech volunteering.
 * 📫 Reach me on : sujit.code90@gmail.com
 * 💜 Interests: Books 📚, Piano 🎹, Travelling. <img width="146" alt="Screenshot 2022-05-22 at 6 39 42 PM" src="https://user-images.githubusercontent.com/25746445/169691307-a9da44ce-a9c8-4452-b686-5a5b2c25bb59.png">
 
-* 😄 Passionate about software quality and building accessible software and helping underrepresented folks get into tech.
+* 😄 Passionate about software quality, building quality accessible software and helping underrepresented folks get into tech.
 
 #### Find me around the web 🌎:
 * 💼 Connecting and sharing professional updates on [LinkedIn](https://www.linkedin.com/in/sujit-ambore/)
