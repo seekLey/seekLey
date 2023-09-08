@@ -1,4 +1,4 @@
-<body style="margin: 0px; background: #0e0e0e; height: 50%"><img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-out;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" width="300" height="250"></body>
+<body style="margin: 0px; background: #0e0e0e; height: 50%"><img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-out;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" width="350" height="250"></body>
 
 ### I'm Sujit 👋
 
