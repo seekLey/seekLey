@@ -3,7 +3,7 @@
 ### I'm Sujit 👋
 
 
-#### I'm a Software Engineer in Test at Palo, based in Singapore.
+#### I'm a Software Engineer at Palo, based in Singapore.
 
 
 * 🌱 Learning more about and studying: Distributed Systems, Java, JavaScript, Open Source, CS Algorithms.
