@@ -10,7 +10,7 @@
 * 🌍 I support and volunteer with: Women Who Code and Synapse-QA.
 * 💬 Ping me about: open source, mentorship and tech volunteering.
 * 📫 Reach me on : sujit.code90@gmail.com
-* 💜 Interests: Books 📚, Piano 🎹, Travelling. <img width="146" alt="Screenshot 2022-05-22 at 6 39 42 PM" src="https://user-images.githubusercontent.com/25746445/169691307-a9da44ce-a9c8-4452-b686-5a5b2c25bb59.png">
+* 💜 Interests: Books 📚, Piano 🎹, Travelling (🇸🇬 🇺🇸 🇳🇱 🇨🇦 🇨🇭 🇮🇳 🇫🇷 🇻🇳 🇲🇻 🇦🇪 🇧🇪 🇲🇾 🇰🇷 🇯🇵...)
 
 * 😄 Passionate about software quality and security, building quality accessible software and helping underrepresented folks get into tech.
 
